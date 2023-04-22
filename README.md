@@ -4,7 +4,28 @@
 Electronica Microcontrolada
 Proyecto del periodo #1. Programando el ESP32
 
-Integrantes :
+       #Integrantes:
 Daniel Varela 
 
-Profesor: Cristian Gonzalo Vera.
+
+
+
+
+
+
+
+
+#Scrum Master.
+
+
+#Product Owner
+
+#Equipo
+
+
+
+
+
+#Profesor:
+
+Cristian Gonzalo Vera.
