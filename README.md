@@ -24,7 +24,6 @@ Proyecto del período #1. Programando el ESP32
 
 ### Development Team
 
-- **, Victor**
 - **, Iván**
 - **, Malvina**
 
