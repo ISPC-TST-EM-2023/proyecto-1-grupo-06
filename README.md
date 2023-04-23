@@ -8,7 +8,7 @@ Proyecto del período #1. Programando el ESP32
 
 - **** |  | [Visitar GitHub]()
 - **Aliendro, Javier** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub](https://github.com/CACHITO-13)
-- **Daniel Varela** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub](https://github.com/linkygit)
+- **Varela Daniel** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub](https://github.com/linkygit)
 - **** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub]()
 - **** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub]()
 - **** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub]()
