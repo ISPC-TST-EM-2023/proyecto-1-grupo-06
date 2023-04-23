@@ -6,16 +6,16 @@ Proyecto del período #1. Programando el ESP32
 
 ### Integrantes del Grupo 06
 
-- **Daniel Varela** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub](https://github.com/linkygit)
+- **** |  | [Visitar GitHub]()
 - **Aliendro, Javier** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub](https://github.com/CACHITO-13)
-- **, Víctor** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub](https://github.com/victorkorp99)
-- **, Iván** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub](https://github.com/ivanmaxibt)
-- **, Ingrid** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub](https://github.com/Ingrid38)
-- **Gallardo, Gustavo** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub](https://github.com/gustavogallardo)
-- **, Malvina** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub](https://github.com/PROFMALVINA)
-- **, Laura** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub](https://github.com/Lauraa8)
-- **Acosta, Otto** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub](https://github.com/Otto2005)
-- **, Cristian** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub](https://github.com/cristianfsv)
+- **** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub]()
+- **** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub]()
+- **** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub]()
+- **** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub]()
+- **** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub]()
+- **** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub]()
+- **** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub]()
+- **** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub]()
 
 ### Docente
 
