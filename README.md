@@ -6,7 +6,7 @@ Proyecto del período #1. Programando el ESP32
 
 ### Integrantes del Grupo 06
 
-- **Aliendro, Javier** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub](https://github.com/CACHITO-13)
+- **Aliendro Javier** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub](https://github.com/CACHITO-13)
 - **Varela Daniel** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub](https://github.com/linkygit)
 - **Bustos Iván** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub](https://github.com/ivanmaxibt)
 
