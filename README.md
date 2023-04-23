@@ -6,7 +6,7 @@ Proyecto del período #1. Programando el ESP32
 
 ### Integrantes del Grupo 06
 
-- **Daniel Varela** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub]()
+- **Daniel Varela** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub](https://github.com/linkygit)
 - **Aliendro, Javier** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub](https://github.com/CACHITO-13)
 - **, Víctor** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub](https://github.com/victorkorp99)
 - **, Iván** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub](https://github.com/ivanmaxibt)
