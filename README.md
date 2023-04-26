@@ -24,7 +24,7 @@ Proyecto del período #1. Programando el ESP32
 
 ### Development Team
 
-- **, Iván**
+- **Bustos, Iván**
 - **Correa, Malvina**
 - **Acosta , Otto**
 
