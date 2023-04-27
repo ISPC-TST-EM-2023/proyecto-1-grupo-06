@@ -30,3 +30,6 @@ Proyecto del período #1. Programando el ESP32
 - **Correa, Malvina**
 - **Acosta , Otto**
 
+### Videos introductorios
+
+- [Aliendro - Introducción al rol Scrum master](https://www.youtube.com/watch?v=ZgV_mt7sTiA)
