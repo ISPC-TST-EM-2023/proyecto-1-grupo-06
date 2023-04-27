@@ -12,6 +12,10 @@ Proyecto del período #1. Programando el ESP32
 - **Acosta Otto** |  Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visita GitHub](https://github.com/oto2005)
 - **Correa Malvina** | Estudiante de tecnicatura Superior en Telecomun icaciones | [Visita GitHub](https://github.com/PROFMALVINA)
 
+### Docente 
+
+- **Cristian Gonzalo Vera** | Profesor en ISPC | [Visitar Github](https://github.com/Gona79)
+
 ### Product Owner
 
 - **Varela, Daniel**
